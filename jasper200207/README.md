@@ -1,1 +1,63 @@
-Hello World!
+# Etnernaut Solve List
+
+- [x] [Ethernaut 1: Fallback](https://ethernaut.openzeppelin.com/level/0x234094aac85628444a82dae0396c680974260be7)
+- [x] [Ethernaut 2: Fallout](https://ethernaut.openzeppelin.com/level/0x8f8b7c7c0f70b7372d3f6c4befcbc9bb73a6f0fe)
+- [x] [Ethernaut 3: Coin Flip](https://ethernaut.openzeppelin.com/level/0x4dcf02f0ff8fad3d0f60a9d06e7cfeb9aa6c5a72)
+- [ ] [Ethernaut 4: Telephone](https://ethernaut.openzeppelin.com/level/0x4dcf02f0ff8fad3d0f60a9d06e7cfeb9aa6c5a72)
+- [ ] [Ethernaut 5: Token](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [x] [Ethernaut 6: Delegation](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 7: Force](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 8: Vault](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 9: King](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 10: Re-entrancy](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 11: Elevator](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 12: Privacy](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 13: Gatekeeper One](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 14: Gatekeeper Two](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 15: Naught Coin](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 16: Preservation](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 17: Locked](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 18: Recovery](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 19: MagicNumber](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 20: Alien Codex](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 21: Denial](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 22: Shop](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 23: Token Sale](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 24: Preservation](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 25: Vault](https://ethernaut.openzeppelin.com/level/0x71c46d6f2b4b9e2836a6fe1c7fbae5078e532096)
+- [ ] [Ethernaut 26: Fallout](https://ethernaut.openzeppelin.com/level/0x8f8b7c7c0f70b7372d3f6c4befcbc9bb73a6f0fe)
+- [ ] [Ethernaut 27: Coin Flip](https://ethernaut.openzeppelin.com/level/0x8f8b7c7c0f70b7372d3f6c4befcbc9bb73a6f0fe)
+- [ ] [Ethernaut 28: Token](https://ethernaut.openzeppelin.com/level/0x8f8b7c7c0f70b7372d3f6c4befcbc9bb73a6f0fe)
+- [ ] [Ethernaut 29: Telephone](https://ethernaut.openzeppelin.com/level/0x8f8b7c7c0f70b7372d3f6c4befcbc9bb73a6f0fe)
+
+# Ethernaut Write Up List
+
+- [ ] Ethernaut 1: Fallback
+- [ ] Ethernaut 2: Fallout
+- [ ] Ethernaut 3: Coin Flip
+- [ ] Ethernaut 4: Telephone
+- [ ] Ethernaut 5: Token
+- [x] Ethernaut 6: Delegation
+- [ ] Ethernaut 7: Force
+- [ ] Ethernaut 8: Vault
+- [ ] Ethernaut 9: King
+- [ ] Ethernaut 10: Re-entrancy
+- [ ] Ethernaut 11: Elevator
+- [ ] Ethernaut 12: Privacy
+- [ ] Ethernaut 13: Gatekeeper One
+- [ ] Ethernaut 14: Gatekeeper Two
+- [ ] Ethernaut 15: Naught Coin
+- [ ] Ethernaut 16: Preservation
+- [ ] Ethernaut 17: Locked
+- [ ] Ethernaut 18: Recovery
+- [ ] Ethernaut 19: MagicNumber
+- [ ] Ethernaut 20: Alien Codex
+- [ ] Ethernaut 21: Denial
+- [ ] Ethernaut 22: Shop
+- [ ] Ethernaut 23: Token Sale
+- [ ] Ethernaut 24: Preservation
+- [ ] Ethernaut 25: Vault
+- [ ] Ethernaut 26: Fallout
+- [ ] Ethernaut 27: Coin Flip
+- [ ] Ethernaut 28: Token
+- [ ] Ethernaut 29: Telephone
